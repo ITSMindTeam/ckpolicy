@@ -37,7 +37,7 @@ We want to inform you that whenever you use our Service, in a case of an error i
 We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches. 
 
 ## Changes to This Privacy Policy
-This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by [clicking here](https://github.com/jarilo32/ckpolicy/commits/master/index.html). 
+This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by [clicking here](https://github.com/jarilo32/ckpolicy/commits/master/README.md). 
 
 ## Contact Us
 If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at team.its-mind@outlook.com. 
