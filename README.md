@@ -15,26 +15,23 @@ This Application does not collect precise information about the location of your
 ## Do third parties see and/or have access to information obtained by the Application?
 The app does use third party services that may collect information used to identify you. 
 
-We may disclose User Provided and Automatically Collected Information:
-- to advertisers and third party advertising networks and analytics companies as described in the section below 
-
 Link to privacy policy of third party service providers used by the app 
 - [Microsoft Privacy Statement](https://privacy.microsoft.com/en-us/privacystatement)
 
 ## Automatic Data Collection and Advertising
-We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. We work with advertisers and third party advertising networks, who need to know how you interact with advertising provided in the Application which helps us keep the cost of the Application low. Advertisers and advertising networks use some of the information collected by the Application, including, but not limited to, the unique identification ID of your mobile device and your mobile telephone number. To protect the anonymity of this information, we use an encryption technology to help ensure that these third parties can’t identify you personally. These third parties may also obtain anonymous information about other applications you’ve downloaded to your mobile device, the mobile websites you visit, your non-precise location information (e.g., your zip code), and other non- precise location information in order to help analyze and serve anonymous targeted advertising on the Application and elsewhere. We may also share encrypted versions of information you have provided in order to enable our partners to append other available information about you for analysis or advertising related use.
+We may work with analytics companies to help us understand how the Application is being used, such as the frequency and duration of usage. 
 
-If you’d like to opt-out from third party use of this type of information to help serve targeted advertising, please visit the section entitled “Opt-out” below.  
+We don't work with advertisers and third party advertising networks.
 
 ## What are my opt-out rights?
 There are an opt-out option for users of this Application: 
 - Opt-out of all information collection by uninstalling the Application: You can stop all collection of information by the third party services used in the  Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. 
 
 ## Log Data
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your device called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. 
+We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information on your device called Log Data. This Log Data doesn't include user information, also no hardware information such as your device Internet Protocol (“IP”) address, device name, operating system version. Log Data is needed only for troubleshooting purposes, and user of his own free will can provide us these logs to help us to improve the application quality.
 
 ## Changes to This Privacy Policy
 This Privacy Policy may be updated from time to time for any reason. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes. You can check the history of this policy by [clicking here](https://github.com/ITSMindTeam/ckpolicy/commits/master/README.md). 
 
 ## Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us via email at team.its-mind@outlook.com. 
+If you have any questions regarding privacy while using the Application, or have questions about our practices, please contact us using [contact form](https://its-mind.me/index.php/contact/).
